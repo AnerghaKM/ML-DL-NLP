@@ -21,9 +21,9 @@ There are several different tools and methods used for preprocessing data, inclu
    
     **Exploratory Data Analysis (EDA)** is used to analyze the datasets and by this, we summarize their main importance.  
     
-    __Feature Engineering__ is the process of extract features from raw data with some domain knowledge.  
+    Feature Engineering is the process of extract features from raw data with some domain knowledge.  
        
-    Feature Selection where we select those features that will give a high impact on the model.  
+    **Feature** Selection where we select those features that will give a high impact on the model.  
     
     Model creation in this we create a machine learning model using suitable algorithms.  
      
