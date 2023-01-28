@@ -19,15 +19,20 @@ There are several different tools and methods used for preprocessing data, inclu
    # Steps in Model Creation
    
    
-    **Exploratory Data Analysis (EDA)** is used to analyze the datasets and by this, we summarize their main importance.  
+    1-Exploratory Data Analysis (EDA) is used to analyze the raw data
     
-    Feature Engineering is the process of extract features from raw data with some domain knowledge.  
+    2-Feature Engineering is the process of extracting features from raw data.
        
-    **Feature** Selection where we select those features that will give a high impact on the model.  
+    3-Feature Selection where we select those features that will give a high impact on the model.  
     
-    Model creation in this we create a machine learning model using suitable algorithms.  
+    4-Model creation in this we create a machine learning model using suitable algorithms.  
      
-    Deployment where we deploy our ML model on the web.  
+    5-Deployment where we deploy our ML model.
+    
+    First 3 steps comprises of the Data preprocessing task.Last 2 steps focus on Model Training and deployment.
+    
+    
+    
      
 
     
