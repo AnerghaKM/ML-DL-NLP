@@ -32,6 +32,20 @@ There are several different tools and methods used for preprocessing data, inclu
     First 3 steps comprises of the Data preprocessing task.Last 2 steps focus on Model Training and deployment.
     
     
+    - Fit()
+    
+    takes the feature F and it will just compute the mean (μ) and standard deviation (σ) of feature F.
+    
+    - Transform() 
+    
+    Apply the calculations that we have calculated in fit() to every data point in feature F.
+    
+    -Fit_transform()
+    
+    This fit_transform() method is basically the combination of fit method and transform method, it is equivalent to fit().transform(). This method performs fit and transform on the input data at a single time and converts the data points. 
+    
+    
+    
     
      
 
