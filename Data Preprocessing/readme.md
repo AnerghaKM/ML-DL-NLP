@@ -15,5 +15,20 @@ There are several different tools and methods used for preprocessing data, inclu
    ~ normalization, which organizes data for more efficient access.  
     
    ~ feature extraction, which pulls out a relevant feature subset that is significant in a particular context.  
+   
+   # Steps in Model Creation
+   
+   
+    **Exploratory Data Analysis (EDA)** is used to analyze the datasets and by this, we summarize their main importance.  
+    
+    __Feature Engineering__ is the process of extract features from raw data with some domain knowledge.  
+       
+    Feature Selection where we select those features that will give a high impact on the model.  
+    
+    Model creation in this we create a machine learning model using suitable algorithms.  
+     
+    Deployment where we deploy our ML model on the web.  
+     
+
     
 
