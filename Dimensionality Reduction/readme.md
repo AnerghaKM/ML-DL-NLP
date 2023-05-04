@@ -1,5 +1,5 @@
 # Dimensionality Reduction
 
-- PCA
+- Principal Component Analysis - PCA
 - Kernel PCA
-- Linear Discriminant Analysis
+- Linear Discriminant Analysis - LDA
