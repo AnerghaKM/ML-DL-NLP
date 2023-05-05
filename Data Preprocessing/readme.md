@@ -43,11 +43,15 @@ There are several different tools and methods used for preprocessing data, inclu
     -Fit_transform()
     
     This fit_transform() method is basically the combination of fit method and transform method, it is equivalent to fit().transform(). This method performs fit and transform on the input data at a single time and converts the data points. 
+        
     
-    
-    
-    
-     
+# Feature Scaling
 
-    
+to make all features in same scale.
+
+- Standardisation 
+   (between -3 and +3) , can be used all times, always do some relevant feature scaling
+- Normalisation  
+   (between 0 and 1) , recommended to use when we have a normal distribution in most of the features
+
 
